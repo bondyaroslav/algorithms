@@ -1,6 +1,6 @@
 import React from 'react';
 import "./App.css"
-import "./linearSearch"
+// import "./linearSearch"
 import "./binarySearch"
 const App = () => {
     return (
